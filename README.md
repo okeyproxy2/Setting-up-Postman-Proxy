@@ -1,5 +1,5 @@
 # Setting-up-Postman-Proxy
-Postman, a API platform widely favored by developers, often necessitates the use of a proxy for certain tasks. This guide will lead you through configuring [Postman API](https://www.okeyproxy.com/proxy/how-to-setup-a-proxy-in-the-postman-api-platform/?link=b63b57)to integrate with the system proxy and operate smoothly in conjunction with OkeyProxy.
+Postman, a API platform widely favored by developers, often necessitates the use of a proxy for certain tasks. This guide will lead you through configuring [Postman API](https://www.okeyproxy.com/proxy/how-to-setup-a-proxy-in-the-postman-api-platform/?link=b63b57) to integrate with the system proxy and operate smoothly in conjunction with OkeyProxy.
 ![1](https://github.com/okeyproxy2/Setting-up-Postman-Proxy/assets/155126786/f7f410d9-61a7-40ee-a53c-85947e8e08fd)
 
 # Custom Proxy Settings
